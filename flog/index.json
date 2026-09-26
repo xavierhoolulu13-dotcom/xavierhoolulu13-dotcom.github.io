@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-24T18:00:00Z",
+  "updated": "2026-09-26T18:02:00Z",
   "site": "XKSH808 - Notes from the Shop",
   "posts": [
+    {
+      "date": "2026-09-26",
+      "title": "If It Rushes You, It's Not Your Bank",
+      "slug": "if-it-rushes-you-its-not-your-bank",
+      "theme": "Senior online help and how-to",
+      "path": "posts/2026-09-26-if-it-rushes-you-its-not-your-bank.html",
+      "url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-26-if-it-rushes-you-its-not-your-bank.html",
+      "markdown_url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-26-if-it-rushes-you-its-not-your-bank.md",
+      "description": "Somebody reads you a text. \"Your account is locked. Tap here to verify.\" Is it real? Here's the test I hand out. It works almost every time. Read it out loud. Slowly. If it sounds like it's rushing you, it's not your bank."
+    },
     {
       "date": "2026-09-24",
       "title": "You're Not on the List",
