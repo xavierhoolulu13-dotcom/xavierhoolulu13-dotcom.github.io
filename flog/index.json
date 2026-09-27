@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-26T18:02:00Z",
+  "updated": "2026-09-27T18:05:00Z",
   "site": "XKSH808 - Notes from the Shop",
   "posts": [
+    {
+      "date": "2026-09-27",
+      "title": "Somebody Tried to Hire You. The Message Went Nowhere.",
+      "slug": "somebody-tried-to-hire-you-the-message-went-nowhere",
+      "theme": "XKSH808 Digital Services Hawaii",
+      "path": "posts/2026-09-27-somebody-tried-to-hire-you-the-message-went-nowhere.html",
+      "url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-27-somebody-tried-to-hire-you-the-message-went-nowhere.html",
+      "markdown_url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-27-somebody-tried-to-hire-you-the-message-went-nowhere.md",
+      "description": "A guy fills out the form on your website. Phone. Thumb. Hits send. He sees &quot;Thanks! We&#x27;ll be in touch.&quot; Then he waits. Nobody calls. So he moves on to the next shop. You never saw it. The form has been quietly broken for months."
+    },
     {
       "date": "2026-09-26",
       "title": "If It Rushes You, It's Not Your Bank",
@@ -10,7 +20,7 @@
       "path": "posts/2026-09-26-if-it-rushes-you-its-not-your-bank.html",
       "url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-26-if-it-rushes-you-its-not-your-bank.html",
       "markdown_url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-26-if-it-rushes-you-its-not-your-bank.md",
-      "description": "Somebody reads you a text. \"Your account is locked. Tap here to verify.\" Is it real? Here's the test I hand out. It works almost every time. Read it out loud. Slowly. If it sounds like it's rushing you, it's not your bank."
+      "description": "Somebody reads you a text. &quot;Your account is locked. Tap here to verify.&quot; Is it real? Here&#x27;s the test I hand out. It works almost every time. Read it out loud. Slowly. If it sounds like it&#x27;s rushing you, it&#x27;s not your bank."
     },
     {
       "date": "2026-09-24",
@@ -20,7 +30,7 @@
       "path": "posts/2026-09-24-youre-not-on-the-list.html",
       "url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-24-youre-not-on-the-list.html",
       "markdown_url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-24-youre-not-on-the-list.md",
-      "description": "Watch somebody look for lunch. Phone out. Two words. \"Poke near me.\" Three names come up. Maybe four. That's the whole list. You're not on it. Nothing wrong with your food. Nothing wrong with your door. You just never claimed the little map card with your name on it. Hours nobody updated. No photos."
+      "description": "Watch somebody look for lunch. Phone out. Two words. &quot;Poke near me.&quot; Three names come up. Maybe four. That&#x27;s the whole list. You&#x27;re not on it. Nothing wrong with your food. Nothing wrong with your door. You just never claimed the little map card with your name on it. Hours nobody updated. No photos."
     }
   ]
 }
