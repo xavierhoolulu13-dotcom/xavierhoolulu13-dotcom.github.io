@@ -1,43 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel>
-<title>XKSH808 - Notes from the Shop</title>
-<link>https://xavierhoolulu13-dotcom.github.io/flog/</link>
-<description>Plain talk about getting found online, from Honolulu. Short posts, no jargon.</description>
-<language>en-us</language>
-<item>
-  <title>Your Phone Isn&#x27;t Broken. It&#x27;s Full of Photos.</title>
-  <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-30-your-phone-isnt-broken-its-full-of-photos.html</link>
-  <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-30-your-phone-isnt-broken-its-full-of-photos.html</guid>
-  <description>Your phone says &quot;Storage Almost Full.&quot; It&#x27;s not broken. It&#x27;s just full. And it&#x27;s almost always photos. Here&#x27;s the thing nobody tells you. You don&#x27;t have to delete them. Deleting is the scary part, so people freeze and do nothing.</description>
-</item>
-<item>
-  <title>The Back Office Fits in Your Pocket Now</title>
-  <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-29-the-back-office-fits-in-your-pocket-now.html</link>
-  <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-29-the-back-office-fits-in-your-pocket-now.html</guid>
-  <description>Nobody opens a shop because they love paperwork. You open it to make the thing. Poke. Cuts. Coffee. Whatever's on your sign. Then the day fills up with the other stuff. The invoice. The reminder. The follow-up. The post you meant to write.</description>
-</item>
-<item>
-  <title>The Review You Never Answered Is Still Talking</title>
-  <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-28-the-review-you-never-answered-is-still-talking.html</link>
-  <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-28-the-review-you-never-answered-is-still-talking.html</guid>
-  <description>Somebody leaves you a review. Three stars. &quot;Food was great. Waited a while.&quot; You read it. You feel it. You close the app. That review is still there. And now it&#x27;s not just talking to you. It&#x27;s talking to everybody deciding whether to walk in.</description>
-</item>
-<item>
-  <title>Somebody Tried to Hire You. The Message Went Nowhere.</title>
-  <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-27-somebody-tried-to-hire-you-the-message-went-nowhere.html</link>
-  <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-27-somebody-tried-to-hire-you-the-message-went-nowhere.html</guid>
-  <description>A guy fills out the form on your website. Phone. Thumb. Hits send. He sees &quot;Thanks! We&#x27;ll be in touch.&quot; Then he waits. Nobody calls. So he moves on to the next shop. You never saw it. The form has been quietly broken for months.</description>
-</item>
-<item>
-  <title>If It Rushes You, It&#x27;s Not Your Bank</title>
-  <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-26-if-it-rushes-you-its-not-your-bank.html</link>
-  <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-26-if-it-rushes-you-its-not-your-bank.html</guid>
-  <description>Somebody reads you a text. &quot;Your account is locked. Tap here to verify.&quot; Is it real? Here&#x27;s the test I hand out. It works almost every time. Read it out loud. Slowly. If it sounds like it&#x27;s rushing you, it&#x27;s not your bank.</description>
-</item>
-<item>
-  <title>You&#x27;re Not on the List</title>
-  <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-24-youre-not-on-the-list.html</link>
-  <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-24-youre-not-on-the-list.html</guid>
-  <description>Watch somebody look for lunch. Phone out. Two words. &quot;Poke near me.&quot; Three names come up. Maybe four. That&#x27;s the whole list. You&#x27;re not on it. Nothing wrong with your food. Nothing wrong with your door. You just never claimed the little map card with your name on it. Hours nobody updated. No photos.</description>
-</item>
-</channel></rss>
+<rss version="2.0">
+  <channel>
+    <title>XKSH808 - Notes from the Shop</title>
+    <link>https://xavierhoolulu13-dotcom.github.io/flog/</link>
+    <description>Plain talk about getting found online, from Honolulu. Short posts, no jargon.</description>
+    <item>
+      <title>You Changed Your Number. Your Website Didn't.</title>
+      <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-10-01-you-changed-your-number-your-website-didnt.html</link>
+      <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-10-01-you-changed-your-number-your-website-didnt.html</guid>
+      <description>Somebody's phone breaks. Water, drop, whatever. So you get a new number. You tell your friends. You tell your regulars. You tell the guy who does your insurance. You forget the website. That number on your contact page? Still the old one. Somebody else has it now. Maybe a stranger. Maybe nobody.</description>
+    </item>
+    <item>
+      <title>Your Phone Isn't Broken. It's Full of Photos.</title>
+      <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-30-your-phone-isnt-broken-its-full-of-photos.html</link>
+      <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-30-your-phone-isnt-broken-its-full-of-photos.html</guid>
+      <description>Your phone says "Storage Almost Full." It's not broken. It's just full. And it's almost always photos. Here's the thing nobody tells you. You don't have to delete them. Deleting is the scary part, so people freeze and do nothing.</description>
+    </item>
+    <item>
+      <title>The Back Office Fits in Your Pocket Now</title>
+      <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-29-the-back-office-fits-in-your-pocket-now.html</link>
+      <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-29-the-back-office-fits-in-your-pocket-now.html</guid>
+      <description>Nobody opens a shop because they love paperwork. You open it to make the thing. Poke. Cuts. Coffee. Whatever's on your sign. Then the day fills up with the other stuff. The invoice. The reminder. The follow-up. The post you meant to write.</description>
+    </item>
+    <item>
+      <title>The Review You Never Answered Is Still Talking</title>
+      <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-28-the-review-you-never-answered-is-still-talking.html</link>
+      <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-28-the-review-you-never-answered-is-still-talking.html</guid>
+      <description>Somebody leaves you a review. Three stars. "Food was great. Waited a while." You read it. You feel it. You close the app. That review is still there. And now it's not just talking to you. It's talking to everybody deciding whether to walk in.</description>
+    </item>
+    <item>
+      <title>Somebody Tried to Hire You. The Message Went Nowhere.</title>
+      <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-27-somebody-tried-to-hire-you-the-message-went-nowhere.html</link>
+      <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-27-somebody-tried-to-hire-you-the-message-went-nowhere.html</guid>
+      <description>A guy fills out the form on your website. Phone. Thumb. Hits send. He sees "Thanks! We'll be in touch." Then he waits. Nobody calls. So he moves on to the next shop. You never saw it. The form has been quietly broken for months.</description>
+    </item>
+    <item>
+      <title>If It Rushes You, It's Not Your Bank</title>
+      <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-26-if-it-rushes-you-its-not-your-bank.html</link>
+      <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-26-if-it-rushes-you-its-not-your-bank.html</guid>
+      <description>Somebody reads you a text. "Your account is locked. Tap here to verify." Is it real? Here's the test I hand out. It works almost every time. Read it out loud. Slowly. If it sounds like it's rushing you, it's not your bank.</description>
+    </item>
+    <item>
+      <title>You're Not on the List</title>
+      <link>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-24-youre-not-on-the-list.html</link>
+      <guid>https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-09-24-youre-not-on-the-list.html</guid>
+      <description>Watch somebody look for lunch. Phone out. Two words. "Poke near me." Three names come up. Maybe four. That's the whole list. You're not on it. Nothing wrong with your food. Nothing wrong with your door. You just never claimed the little map card with your name on it. Hours nobody updated. No photos.</description>
+    </item>
+  </channel>
+</rss>
