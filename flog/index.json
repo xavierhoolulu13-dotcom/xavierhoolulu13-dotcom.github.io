@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-02T18:05:00Z",
+  "updated": "2026-10-03T18:05:00Z",
   "site": "XKSH808 - Notes from the Shop",
   "posts": [
+    {
+      "date": "2026-10-03",
+      "title": "Nobody Takes a Two-Hour-a-Week Job",
+      "slug": "nobody-takes-a-two-hour-a-week-job",
+      "theme": "Hoolulu Hub",
+      "path": "posts/2026-10-03-nobody-takes-a-two-hour-a-week-job.html",
+      "url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-10-03-nobody-takes-a-two-hour-a-week-job.html",
+      "markdown_url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-10-03-nobody-takes-a-two-hour-a-week-job.md",
+      "description": "There's a job in your shop that takes about two hours a week. You can't hire for it. Nobody wants two hours a week. And by the time you'd explain it, train them, check the work — you've spent the two hours anyway."
+    },
     {
       "date": "2026-10-02",
       "title": "The Map Sends Them to the Wrong Block",
