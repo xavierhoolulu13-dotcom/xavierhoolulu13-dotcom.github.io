@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-04T18:05:00Z",
+  "updated": "2026-10-05T18:05:00Z",
   "site": "XKSH808 - Notes from the Shop",
   "posts": [
+    {
+      "date": "2026-10-05",
+      "title": "Your Website Says Not Secure. Right Next to Your Name.",
+      "slug": "your-website-says-not-secure-right-next-to-your-name",
+      "theme": "XKSH808 Digital Services Hawaii",
+      "path": "posts/2026-10-05-your-website-says-not-secure-right-next-to-your-name.html",
+      "url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-10-05-your-website-says-not-secure-right-next-to-your-name.html",
+      "markdown_url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-10-05-your-website-says-not-secure-right-next-to-your-name.md",
+      "description": "Somebody looks you up. Your name comes up. And right there in the address bar, in front of your shop's name, it says: Not Secure. They don't know what that means. They just know it sounds bad. So they back out and call the next place."
+    },
     {
       "date": "2026-10-04",
       "title": "Your Phone Dings at 2 AM. Here's How to Stop It.",
