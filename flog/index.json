@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-10T18:03:26Z",
+  "updated": "2026-10-11T18:03:34Z",
   "site": "XKSH808 - Notes from the Shop",
   "posts": [
+    {
+      "date": "2026-10-11",
+      "title": "One Board. Everybody Sees the Whole Thing.",
+      "slug": "one-board-everybody-sees-the-whole-thing",
+      "theme": "Hoolulu Hub",
+      "path": "posts/2026-10-11-one-board-everybody-sees-the-whole-thing.html",
+      "url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-10-11-one-board-everybody-sees-the-whole-thing.html",
+      "markdown_url": "https://xavierhoolulu13-dotcom.github.io/flog/posts/2026-10-11-one-board-everybody-sees-the-whole-thing.md",
+      "description": "In a shop, you call the order out. Everybody hears it. Cook, counter, whoever's bagging. Nobody has to be told twice. Software doesn't usually work like that. You do your part, then you hand it to the next person. And something gets lost in the handoff. It always does. That's the thing I built Hoolu"
+    },
     {
       "date": "2026-10-10",
       "title": "Your Hours Are Right on the Door. They're Wrong Online.",
